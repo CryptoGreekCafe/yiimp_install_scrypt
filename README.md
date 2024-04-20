@@ -46,8 +46,8 @@ If you are issue after installation (nginx,mariadb... not found), use this scrip
 
 ###### This script has an interactive beginning and will ask for the following information :
 
-- Server Name (no http:// or www !!!!! Example : crypto.com OR pool.crypto.com OR 80.41.52.63)
-- Are you using a subdomain (mypool.crypto.com)
+- Server Name (no http:// or www !!!!! Example : cryptogreek.cafe OR pool.cryptogreek.cafe OR 80.80.80.83)
+- Are you using a subdomain (pool.cryptogreek.cafe)
 - Enter support email
 - Set stratum to AutoExchange
 - Your Public IP for admin access (Put your PERSONNAL IP, NOT IP of your VPS)
